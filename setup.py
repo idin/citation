@@ -5,7 +5,7 @@ def readme():
 		return f.read()
 
 setup(
-	name='riddle',
+	name='citation',
 	version='0.0.2',
 	license='MIT',
 
